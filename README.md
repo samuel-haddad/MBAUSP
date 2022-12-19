@@ -28,3 +28,7 @@ O combate às fraudes no setor financeiro apresenta-se como um grande desafio pa
 Combating fraud in the financial sector is a big challenge for banking institutions. From the hypothesis that the context of each company is relevant for these infractions’ detection and for the modeling of a prevention algorithm, this work proposed to build a multilevel approach that considers such relationships to compare them with other models and techniques traditionally implemented in the market. To this end, three models were developed from a database with 26,434 account opening processes in 39 organizations: Multilevel, XGBoost, and Binary Logistic Regression. Among the results obtained, the multilevel model presented a superior result in the comparative AUC ROC (for a confidence level of 95%), demonstrating the potential to capture the random effects of clusters.
 <br>
 <br>**Keywords:** Multilevel; Mixed Modeling; Logistic Regression; XGBoost; Fraud.
+
+### Files
+- [TCC](https://github.com/samuel-haddad/MBAUSP/blob/main/tcc_samuel_haddad.pdf) <br>
+- [Presentation](https://github.com/samuel-haddad/MBAUSP/blob/main/presentation_tcc_samuel_haddad.pdf)
